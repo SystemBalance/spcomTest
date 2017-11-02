@@ -1,0 +1,27 @@
+<?php
+return array (
+    'Username' => 'Логин',
+    'Password' => 'Пароль',
+    'Email' => 'Email',
+    'Login' => 'Вход',
+    'Users' => 'Пользователи',
+    'Create User' => 'Создать пользователя',
+    'Creating User' => 'Создание пользователя',
+    'Creating' => 'Создание',
+    'Create' => 'Создаать',
+    'Save' => 'Сохранить',
+    'Update' => 'Обновление',
+    'Search' => 'Поиск',
+    'Advanced Search' => 'Расширенный поиск',
+    'List User' => 'Список пользователей',
+    'View User' => 'Просмотр пользователя',
+    'Update User' => 'Обновить пользователя',
+    'Updating User' => 'Обновление пользователя',
+    'Delete User' => 'Удалить пользователя',
+    'Manage Users' => 'Управление пользователями',
+    'Manage' => 'Управление',
+    'Operations' => 'Действия',
+    'Fields with <span class="required">*</span> are required.'=>'Поля отмеченные символом <span class="required">*</span> обязательны к заполнению.',
+    'Remember me next time' => 'Запомнить',
+    'Are you sure you want to delete this item?' => 'Вы уверены что хотите удалить этого пользователя?'
+);
